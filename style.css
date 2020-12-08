@@ -1,0 +1,37 @@
+body {
+ background-color: #FFFFFF;
+}
+h3 {
+ background-color: black;
+}
+p {
+ background-color: #FFFFFF);
+}
+body {
+color:black;
+background-color:white;
+background-image: ;
+background-repeat:no-repeat;
+}
+h1 {
+text-decoration: none;
+font-family: verdana;
+font-size: 1.6em;
+color: #000000;
+text-shadow: 6px 11px 5px #444444;
+-webkit-text-shadow: 6px 11px 5px #444444;
+-moz-text-shadow: 6px 11px 5px #444444;
+}
+h2 {
+transform: rotate(13deg) scale(0.8) skewX(11deg) skewY(1deg);
+-o-transform: rotate(13deg) scale(0.8) skewX(11deg) skewY(1deg);
+-ms-transform: rotate(13deg) scale(0.8) skewX(11deg) skewY(1deg);
+-moz-transform: rotate(13deg) scale(0.8) skewX(11deg) skewY(1deg);
+-webkit-transform: rotate(13deg) scale(0.8) skewX(11deg) skewY(1deg);
+}
+img {
+	width: 1250px;
+	height: auto;
+}
+script {
+	background-image: url("boxe_3")
